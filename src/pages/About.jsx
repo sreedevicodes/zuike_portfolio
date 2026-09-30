@@ -57,10 +57,12 @@ const certifications = [
 ]
 
 const achievements = [
-  "Completed college-level mini project on Student Result Management System.",
-  "Participated in college-level technical fest / hackathon (Placeholder).",
-  "Consistently maintained good academic performance in core CS subjects.",
-  "Successfully developed personal portfolio website using React.js.",
+  "NPTEL Certified – Completed Data Structures and Algorithms using Python through NPTEL/SWAYAM.",
+  "Smart India Hackathon 2026 – Developed PulseGrid – The Campus Energy Grid, a fitness-focused software solution addressing physical activity and student wellness.",
+  "INNOV8 Ideathon – Worked on Spot Ease, a smart parking management solution, contributing to research, UI/UX prototyping, and presentation.",
+  "Agentic AI Hackathon – Contributed to Dissolver, an AI-powered e-commerce dispute resolution system using multiple specialized AI agents.",
+  "FOSS Club – Contributed to technical club activities through UI/UX design, visual communication, event planning, and promotional projects.",
+  "College Newsletter Team – Contributed to the design, layout, and visual presentation of the college newsletter.",
 ]
 
 function About() {
